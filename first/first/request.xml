@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Input>
+<CommandName>PhoneAdd</CommandName>
+   <PhoneOperation>
+      <Phone>21511111</Phone>
+      <CustomerId>5</CustomerId>
+   </PhoneOperation>
+</Input>
